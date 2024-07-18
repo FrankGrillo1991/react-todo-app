@@ -4,7 +4,7 @@ import PageTitle from './components/PageTitle';
 function App() {
   return (
     <div className="container">
-      <PageTitle></PageTitle>
+      <PageTitle>TODO LIST</PageTitle>
     </div>
   );
 }
