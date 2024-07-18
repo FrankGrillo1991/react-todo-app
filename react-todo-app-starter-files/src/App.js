@@ -1,9 +1,10 @@
 import React from 'react';
+import PageTitle from './components/PageTitle';
 
 function App() {
   return (
     <div className="container">
-      <h1>Todo App</h1>
+      <PageTitle></PageTitle>
     </div>
   );
 }
